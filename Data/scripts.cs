@@ -1,6 +1,6 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
-using SVSAP;
+using SVSAP
 0
 using StardewModdingAPI;
 
