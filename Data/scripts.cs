@@ -1,5 +1,5 @@
 using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Graphics
 using SVSAP
 using StardewModdingAPI;
 using StardewModdingAPI.Events;1
