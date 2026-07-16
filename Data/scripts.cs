@@ -5,7 +5,8 @@ using StardewModdingAPI;
 using StardewModdingAPI.Events;1
 using StardewValley;
 using StardewValley.GameData.BigCraftables;
-using StardewValley.GameData.FloorsAndPaths;11
+usin
+    g StardewValley.GameData.FloorsAndPaths;11
     
 using StardewValley.GameData.Objects;
 
